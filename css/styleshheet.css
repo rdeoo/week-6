@@ -5,3 +5,7 @@ list-style-type: none;}
 ul a:link{color:green}
 ul a:visited{color:red}
 ul a:hover{color: pink;}
+li:first-child::first-letter{
+    font-size: 120%;
+    font-weight: bold;
+}
