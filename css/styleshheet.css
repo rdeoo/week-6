@@ -9,3 +9,5 @@ li:first-child::first-letter{
     font-size: 120%;
     font-weight: bold;
 }
+a[ href="https://bcit.ca"]{background-color: yellow;}
+
